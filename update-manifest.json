@@ -1,0 +1,8 @@
+{
+  "packageName": "com.m7tawa.app",
+  "versionName": "1.0.2",
+  "versionCode": 3,
+  "enabled": false,
+  "apkUrl": "https://github.com/aymangamel/m7tawa-android-releases/releases/download/v1.0.2/app-release.apk",
+  "notes": "إصدار تأسيسي لنظام التحديثات عبر GitHub Releases."
+}
