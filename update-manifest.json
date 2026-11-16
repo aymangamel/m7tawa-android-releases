@@ -1,8 +1,8 @@
 {
   "packageName": "com.m7tawa.app",
-  "versionName": "1.0.2",
-  "versionCode": 3,
-  "enabled": false,
-  "apkUrl": "https://github.com/aymangamel/m7tawa-android-releases/releases/download/v1.0.2/app-release.apk",
-  "notes": "إصدار تأسيسي لنظام التحديثات عبر GitHub Releases."
+  "versionName": "1.0.3",
+  "versionCode": 4,
+  "enabled": true,
+  "apkUrl": "https://github.com/aymangamel/m7tawa-android-releases/releases/download/v1.0.3/app-release.apk",
+  "notes": "إصدار 1.0.3: إصلاح توجيه صفحات الشراء والطلبات، تحديث أيقونة التطبيق، وتحسين التنقل والتحديثات."
 }
